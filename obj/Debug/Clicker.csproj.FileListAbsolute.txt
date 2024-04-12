@@ -1,0 +1,10 @@
+H:\!!!_Learn\C#\Clicker\bin\Debug\Clicker.exe.config
+H:\!!!_Learn\C#\Clicker\bin\Debug\Clicker.exe
+H:\!!!_Learn\C#\Clicker\bin\Debug\Clicker.pdb
+H:\!!!_Learn\C#\Clicker\obj\Debug\Clicker.csproj.AssemblyReference.cache
+H:\!!!_Learn\C#\Clicker\obj\Debug\Clicker.Form1.resources
+H:\!!!_Learn\C#\Clicker\obj\Debug\Clicker.Properties.Resources.resources
+H:\!!!_Learn\C#\Clicker\obj\Debug\Clicker.csproj.GenerateResource.cache
+H:\!!!_Learn\C#\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
+H:\!!!_Learn\C#\Clicker\obj\Debug\Clicker.exe
+H:\!!!_Learn\C#\Clicker\obj\Debug\Clicker.pdb
